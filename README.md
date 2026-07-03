@@ -87,21 +87,10 @@ The project includes `netlify.toml`:
 
 The GitHub REST API works without a token for public data but is subject to unauthenticated rate limits. The app only stores favorites, theme, and recent searches in the browser's Local Storage.
 
-# ✨ Live Demo
+# Live Demo
 http://magical-tanuki-d4538a.netlify.app
 
-
-# 📂 Folder Structure
-
-src/
- ├── components
- ├── pages
- ├── context
- ├── hooks
- ├── services
- ├── utils
-
-# 🚀 Future Improvements
+# Future Improvements
 
 - GitHub OAuth
 - Contribution Heatmap
@@ -109,7 +98,7 @@ src/
 - Repository Insights
 - Export as PNG
 
-# 👨‍💻 Author
+#  Author
 
 Vibhuti
 
